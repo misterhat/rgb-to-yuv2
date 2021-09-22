@@ -1,0 +1,29 @@
+{
+  "name": "rgb-to-yuv2",
+  "version": "1.0.0",
+  "description": "convert images to yuv2 for the wii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhat/rgb-to-yuv2.git"
+  },
+  "keywords": [
+    "rgb",
+    "yuv",
+    "yuv2",
+    "wii"
+  ],
+  "author": "Zorian Medwid <misterhat144@gmail.com>",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/misterhat/rgb-to-yuv2/issues"
+  },
+  "homepage": "https://github.com/misterhat/rgb-to-yuv2#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "word-wrap": "^1.2.3"
+  }
+}
